@@ -9,7 +9,7 @@ daysOfWeek:
   - T
   - M
 startRecur: 2024-09-30
-endRecur: 2025-01-17
+endRecur: 2025-01-18
 ---
 
 | №   | ФИО                |   Дата   |
