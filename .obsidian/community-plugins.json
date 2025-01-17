@@ -2,7 +2,7 @@
   "homepage",
   "obsidian-icon-folder",
   "dataview",
-  "obsidian-full-calendar",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-full-calendar"
 ]
